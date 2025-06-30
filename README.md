@@ -6,14 +6,10 @@ Este repositório contém exercícios, implementações e desafios da disciplina
 
 ## 📂 Organização dos arquivos
 
-### 📁 `listas/`
+### 📁 `lista/`
 Exercícios organizados por listas práticas fornecidas em aula.
+https://classroom.google.com/c/NzMyNjkzNzc1ODI4/a/Njg5ODcxMzU3MTMz/details
 
-### 📁 `estruturas/`
-Implementações de estruturas clássicas, como:
-- Pilha estática e dinâmica
-- Fila circular
-- Lista encadeada
 
 ### 📁 `desafios/`
 Problemas extras de lógica e algoritmos resolvidos (ex: HackerRank, URI, Beecrowd etc.)
